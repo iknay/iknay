@@ -1,4 +1,4 @@
-<h1> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />Hi!</h1>
+<h1> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi!</h1>
 <h2> I'm Yancee Villanueva, 4th Year Computer Engineering Student :computer:</h2>
 
 
@@ -12,3 +12,6 @@
     
   </p>
 
+<h2 align="left">:heart: Let's get connected:</h2>
+
+[![Linkedin Badge](https://img.shields.io/badge/-yancee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yancee/)](https://www.linkedin.com/in/yancee) [![Instagram Badge](https://img.shields.io/badge/-eecnayy-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)](https://www.instagram.com/eecnayy/)
