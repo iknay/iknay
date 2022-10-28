@@ -2,7 +2,7 @@
 <h2> I'm Yancee Villanueva, 4th Year Computer Engineering Student :computer:</h2>
 
 
-<h2 align="left"><img src="https://cdn.discordapp.com/attachments/989842177217691735/1035606696103526482/devnwfm-22dabb27-9d10-42ed-b30c-8cdf8efcb687.gif" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Technologies and Tools I use:</h2>
+<h2 align="left"><img src="https://www.deviantart.com/theicecolo/art/pop-cat-funky-beat-gif-2-899709682" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Technologies and Tools I use:</h2>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
