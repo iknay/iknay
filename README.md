@@ -17,7 +17,3 @@
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=iknay&theme=tokyonight" alt="iknay" />
 <br/>
 
-//<h2 align="left">:heart: Let's get connected:</h2>
-
-//[![Linkedin Badge](https://img.shields.io/badge/-yancee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yancee/)](https://www.linkedin.com/in/yancee) 
-//[![Instagram Badge](https://img.shields.io/badge/-eecnayy-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)](https://www.instagram.com/eecnayy/)
