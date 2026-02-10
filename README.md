@@ -15,7 +15,7 @@
   </p>
   
 <h2> Github Stats </h2> 
-<a href="https://github.com/iknay/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iknay&layout=compact&theme=tokyonight" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=iknay&theme=rose-pine&hide_border=true&border_radius=5" alt="GitHub Streak" /></a>
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=iknay&theme=tokyonight" alt="iknay" />
 <br/>
 
